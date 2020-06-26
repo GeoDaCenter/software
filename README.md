@@ -1,0 +1,2 @@
+# software
+GeoDa software
